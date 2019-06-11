@@ -10,4 +10,4 @@ Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 * Student Name
 * Student Name
 * Student Name
-* Student Name
+* Brandon Bunch

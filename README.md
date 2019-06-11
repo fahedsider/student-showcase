@@ -7,7 +7,7 @@ Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 
 * Student Name
 * Student Name
-* Student Name
+* Donna Detwieler
 * Student Name
 * Student Name
 * Student Name

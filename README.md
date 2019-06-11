@@ -9,5 +9,5 @@ Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 * Student Name
 * Fahed Sider
 * Dillon Deleacaes
-* Student Name
+* Donna Detwieler
 * Brandon Bunch

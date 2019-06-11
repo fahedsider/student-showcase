@@ -7,7 +7,7 @@ Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 
 * Jo Knightstep
 * Student Name
+* Fahed Sider
+* Dillon Deleacaes
 * Student Name
-* Student Name
-* Student Name
-* Student Name
+* Brandon Bunch

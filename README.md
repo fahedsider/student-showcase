@@ -5,11 +5,16 @@ Today, you're going to help create a Student Showcase for you and your classmate
 
 Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 
+* Jo Knightstep
 * Student Name
-* Student Name
-* Student Name
-* Student Name
-* Student Name
+* Fahed Sider
+* Dillon Deleacaes
+* Donna Detwieler
 * Brandon Bunch
 
-Testing
+### Requirements:
+* add yourname.html with a list, image, link to return home, and a quote
+* add styles to style.css targeting elements on yourname.html
+* add either a table or grid to your page
+* on the index.html page, add a clickable image that routes to your page.
+>>>>>>> 1047c40eeb9b9c2dfb509dfbce3ab581f198fa95

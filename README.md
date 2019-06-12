@@ -17,4 +17,4 @@ Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 * add styles to style.css targeting elements on yourname.html
 * add either a table or grid to your page
 * on the index.html page, add a clickable image that routes to your page.
->>>>>>> 1047c40eeb9b9c2dfb509dfbce3ab581f198fa95
+

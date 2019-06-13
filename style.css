@@ -1,3 +1,11 @@
 * {
   background-color: gray;
 }
+
+div#hhthacker :hover {
+  opacity: 0.5;
+}
+
+div#hhthacker img {
+  border-radius: 100%;
+}

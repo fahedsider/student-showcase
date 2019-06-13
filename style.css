@@ -22,3 +22,11 @@
 a:link#brandonEmail {
   color: black;
 }
+
+div#hhthacker :hover {
+  opacity: 0.5;
+}
+
+div#hhthacker img {
+  border-radius: 100%;
+}

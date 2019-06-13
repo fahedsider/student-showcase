@@ -42,7 +42,8 @@ h3 {
 table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
-    width: 100%;
+    border-color: black;
+    width: 200%;
   }
   
   td, th {

@@ -15,6 +15,6 @@ Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 ### Requirements:
 * add yourname.html with a list, image, link to return home, and a quote
 * add styles to style.css targeting elements on yourname.html
-* add either a table or grid to your page
+* add either a table or grid to your page, fill it with words you have learned related to coding
 * on the index.html page, add a clickable image that routes to your page.
 

@@ -38,6 +38,8 @@ h3 {
 .list {
     color: darkgoldenrod;
     text-decoration: none;
+    background: purple;
+    padding: 20px;
 }
 
 table {

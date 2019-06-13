@@ -40,14 +40,14 @@ h3 {
     text-decoration: none;
     background: purple;
     padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-decoration: none;
-    font-size: 200%;
+    font-size: 150%;
 }
 
 table {
     font-family: arial, sans-serif;
-    border-collapse: collapse;
+    border-collapse: inherit;
     border-color: black;
     width: 200%;
   }

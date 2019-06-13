@@ -11,12 +11,3 @@ Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 * Dillon Deleacaes
 * Donna Detwieler
 * Brandon Bunch
-
-
-### Requirements:
-* add yourname.html with a list, image, link to return home, and a quote
-* add styles to style.css targeting elements on yourname.html
-* add either a table or grid to your page
-* on the index.html page, add a clickable image that routes to your page.
-
->>>>>>> 42adec89dcb94632e797c5cb5902555bfdedecff

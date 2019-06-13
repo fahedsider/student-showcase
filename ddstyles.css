@@ -1,0 +1,58 @@
+body {
+    background-color: aliceblue;
+    text-align: center;
+    margin: auto;
+}
+
+  /* nav styles */
+  a:link, a:visited, a:hover, a:active {
+    background-color: bisque;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+h1 {
+    color: indigo;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+}
+
+h2 {
+    color: navy;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+
+h3 {
+    color: blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#GirlImg {
+    image-orientation: 15deg;
+}
+
+.list {
+    color: darkgoldenrod;
+    text-decoration: none;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    border-color: black;
+    width: 200%;
+  }
+  
+  td, th {
+    border: 5px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }

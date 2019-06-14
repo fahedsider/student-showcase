@@ -19,21 +19,20 @@ h1 {
     color: indigo;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-decoration: none;
+    font-size: 250%
 }
 
 h2 {
     color: navy;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-decoration: none;
+    font-size: 170%
 }
 
 h3 {
     color: blueviolet;
     font-family: Georgia, 'Times New Roman', Times, serif;
-}
-
-#GirlImg {
-    image-orientation: 30deg;
+    font-size: 120%
 }
 
 .list {
@@ -42,14 +41,14 @@ h3 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-decoration: none;
     font-size: 150%;
-   
 }
 
 .table {
     font-family: arial, sans-serif;
-    border-collapse: inherit;
+    border-collapse: collapse;
     border-color: black;
     text-align: center;
+    font-size: 120%
   }
   
   td, th {

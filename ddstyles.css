@@ -2,8 +2,7 @@ body {
     background-color: aliceblue;
     text-align: center;
     margin: auto;
-    border: 20px 50px;
-    padding: 100px 250px;
+ 
 }
 
   /* nav styles */
@@ -40,7 +39,6 @@ h3 {
 .list {
     color: darkgoldenrod;
     text-decoration: none;
-    padding: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-decoration: none;
     font-size: 150%;

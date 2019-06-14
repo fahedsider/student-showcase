@@ -38,11 +38,12 @@ h3 {
 .list {
     color: darkgoldenrod;
     text-decoration: none;
-    background: purple;
+    background: lavender;
     padding: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-decoration: none;
     font-size: 150%;
+    margin: auto;
 }
 
 table {

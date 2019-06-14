@@ -2,8 +2,8 @@ body {
     background-color: aliceblue;
     text-align: center;
     margin: auto;
-    border: 20px 30px;
-    padding: 100px 350px;
+    border: 20px 50px;
+    padding: 100px 250px;
 }
 
   /* nav styles */
@@ -47,7 +47,7 @@ h3 {
    
 }
 
-table {
+.table {
     font-family: arial, sans-serif;
     border-collapse: inherit;
     border-color: black;

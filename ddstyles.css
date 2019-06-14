@@ -2,6 +2,8 @@ body {
     background-color: aliceblue;
     text-align: center;
     margin: auto;
+    border: 20px 30px;
+    padding: 100px 200px;
 }
 
   /* nav styles */
@@ -42,9 +44,7 @@ h3 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-decoration: none;
     font-size: 150%;
-    margin: auto;
-    border: 20px 30px
-    padding: 100px 200px;
+   
 }
 
 table {

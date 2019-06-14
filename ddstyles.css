@@ -38,19 +38,20 @@ h3 {
 .list {
     color: darkgoldenrod;
     text-decoration: none;
-    background: lavender;
     padding: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-decoration: none;
     font-size: 150%;
     margin: auto;
-    padding: 20px 30px;
+    border: 20px 30px
+    padding: 100px 200px;
 }
 
 table {
     font-family: arial, sans-serif;
     border-collapse: inherit;
     border-color: black;
+    text-align: center;
   }
   
   td, th {

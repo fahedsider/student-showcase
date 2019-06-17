@@ -1,3 +1,10 @@
+
 * {
-  background-color: gray;
+  background-color: lightgrey;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#div {
+  text-align: center;
 }

@@ -5,8 +5,18 @@
   font-family: "Times New Roman", Times, serif;
 }
 
-#div {
-  text-align: center;
+li {
+  list-style: none;
+  font-size: large
+}
+
+table, td {
+  border: 1px solid black;
+}
+
+table {
+  align-items: center;
+  margin: auto;
 }
 
 

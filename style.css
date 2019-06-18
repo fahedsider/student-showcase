@@ -24,8 +24,9 @@ table {
 #fahedPage {
     background-color: lightblue; 
 }
+
   /* Link bottons */
-  a#fahedNav :link, :visited, :hover, :active {
+  a#fahedBtn {
     background-color: #476070;
     color: antiquewhite;
     padding: 10px 25px;

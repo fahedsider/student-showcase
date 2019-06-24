@@ -59,3 +59,16 @@ div#hhthacker img {
   border-radius: 100%;
 
 }
+
+/* Dillons quote styling */
+
+blockquote {
+  display: block;
+  border-width: 2px 0;
+  border-style: solid;
+  border-color: whitesmoke;
+  padding: 1.5em 0 0.5em;
+  margin: 1.5em 0;
+  position: relative;
+}
+/* ending */

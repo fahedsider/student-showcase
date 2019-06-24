@@ -1,6 +1,7 @@
 * {
+  background-color: lightgrey;
   text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 main{
@@ -15,7 +16,7 @@ ul {
 
 li {
   list-style: none;
-  font-size: large
+  font-size: large;
 }
 
 table, td {
@@ -73,8 +74,13 @@ footer {
   bottom: 0;
   width: 100%;
   background-color: black;
-  color: white;
   text-align: center;
+}
+
+.foottext{
+  background-color: black;
+  color: whitesmoke;
+  margin: 0.5%;
 }
 
 /* Dillons quote styling */

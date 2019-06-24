@@ -1,7 +1,16 @@
 * {
-  background-color: lightgrey;
   text-align: center;
-  font-family: "Times New Roman", Times, serif;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+main{
+  margin: 180px;
+}
+
+ul {
+  list-style: none;
+  list-style-type: none;
+  text-align: center;
 }
 
 li {
@@ -18,7 +27,9 @@ table {
   margin: auto;
 }
 
-
+#fahedPage {
+    background-color: lightblue;
+}
   /* Link botton style */
   a#fahedBtn {
     background-color: #476070;
@@ -34,9 +45,6 @@ table {
   text-align: center;
 }
 
-#brandonContact {
-  list-style: none;
-}
 
 #brandonIMG {
   border-radius: 25%;
@@ -57,7 +65,16 @@ div#hhthacker :hover {
 
 div#hhthacker img {
   border-radius: 100%;
+}
 
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
 }
 
 /* Dillons quote styling */
@@ -72,3 +89,4 @@ blockquote {
   position: relative;
 }
 /* ending */
+

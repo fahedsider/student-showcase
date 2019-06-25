@@ -5,8 +5,20 @@
 }
 #headertext {
   font-family: "Comic Sans MS", cursive, sans-serif;
-  background-color: white;
+  background-color: black;
+  color: whitesmoke
 }
+
+/* footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  text-align: center;
+} */
+
+
 
 main{
   margin: 180px;

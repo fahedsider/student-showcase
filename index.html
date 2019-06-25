@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <link rel="stylesheet" href="style.css" type="text/css" />
     <title>Savvy Coders Student Showcase</title>
-      
+
     <!-- resets -->
     <link
       rel="stylesheet"
@@ -24,18 +24,18 @@
     />
 
     <link rel="stylesheet" href="theme/style.css" type="text/css" />
+    <link rel="stylesheet" href="grid.css" type="text/css" />
   </head>
 
   <body>
     <header class="header">
         <a name="top"></a>
       <h1 id="headertext"> <i class="fab fa-connectdevelop"></i> Nashville Savvy Coder's Student Showcase June 2019</h1> 
-     
+
     </header>
     <main class="content">
 
-      <div id="scroll-nav">
-        <nav>
+        <nav id="scroll-nav">
           <a href="#dd">Donna Detwieler</a>
           <a href="#jk">Jo Knightstep</a>
           <a href="#Fahed">Fahed Sider</a>
@@ -44,36 +44,43 @@
           <a href="#eric">Eric Loux</a>
           <a href="#hhthacker">Heather Thacker</a>
         </nav>
-      </div>
 
 <br>
-
-      <div id="dd">
-        <a href="dd.html"><img src="donna.jpg" alt="Donna" width="300"/></a>
+      <container class="grid-col-12">
+      <div id="dd" class="col-3-span-8">
+        <a href="dd.html"><img src="donna.jpg" alt="Donna" /></a>
         <h2> Donna Detwieler </h2>
 
         <a id="ddemail" href="mailto:ddiscoding@gmail.com">My Email</a> |
         <a id="ddgithub" href="https://github.com/doreblis">My GitHub</a> |
         <a id="ddlinkedin" href="https://www.linkedin.com/in/donna-detwieler-024564144/">My LinkedIn</a>
 
-        <p> I am Mother. The word mother is a broad term with linked responsibilities related to giving warmth passion towards their children or family. They are someone who provides our basic needs, emotional needs and guide us all throughout the way. Mothers possess tender love and care towards their families with warm understanding, gentleness and infinite patience. </p>
         <h4><i>"Silence is golden. Unless, you have kids. Then, silence is suspicious."</i></h4>
+        <p> I am Mother. The word mother is a broad term with linked responsibilities related to giving warmth passion towards their children or family. They are someone who provides our basic needs, emotional needs and guide us all throughout the way. Mothers possess tender love and care towards their families with warm understanding, gentleness and infinite patience. </p>
       </div>
-
-      <div id="jk">
+      <div class="col-buffer-left"></div>
+      <div id="jk" class="col-3-span-8">
         <a href="student.html"><img src="images/jk.jpg" /></a>
+        <h2>Jo Knightstep</h2>
+
+        <li><a href="https://github.com/JoKnightstep/JoKnightstep">GitHub</a></li>
+        <li><a id="joemail" href="mailto:jocoleknight@gmail.com">Email</a></li>
+
+        <p>
+          Jo has been working in Payroll Accounting for the last 6 years focusing on 401K compliance and providing excellent customer service to her fellow employees. She is currently employed at a small logistics company but has worked multi-sate payroll in heathcare, parking, and oil. Her dream mentor would be the wise and patient Yoda- included are some fun facts on the greatest Jedi from a galaxy far, far away.
+        </p>
       </div>
 
-      <div id="Fahed">
+      <div id="Fahed" class="col-3-span-8">
         <a href="fahed/fahed.html">
-        <img src="fahed/images/fahed.jpg" alt="Fahed" width="400"/>
+        <img src="fahed/images/fahed.jpg" alt="Fahed"/>
         </a>
         <h2><b><u>Fahed Sider</u></b></h2>
           <a href="https://github.com/fahedsider" target="_blank">GitHub</a> |
           <a href="https://www.linkedin.com/in/fahed/" target="_blank">LinkedIn</a>|
           <a href="mailto:info@fahedsider.com"target="_blank">Email</a>
           <p></p>
-          <p>Fahed Sider is a Software Quality Manager in Nashville, TN. He is an agilest and software tester that loves to learn new concepts. Recognized throughout his career as an expert technical leader and trainer with in-depth experience in agile testing using scrum and Kanban methodology. He is passionate about learning new technologies. Joined Savvy Coders  to advance his skills in front end software development. 
+          <p>Fahed Sider is a Software Quality Manager in Nashville, TN. He is an agilest and software tester that loves to learn new concepts. Recognized throughout his career as an expert technical leader and trainer with in-depth experience in agile testing using scrum and Kanban methodology. He is passionate about learning new technologies. Joined Savvy Coders  to advance his skills in front end software development.
             When not working he enjoys backcountry exploration and outdoor adventures such as fishing, hiking, backpacking and camping.</p>
             <p></p>
             <P>
@@ -82,10 +89,10 @@
             </P>
       </div>
 
-      <div id="DillyDilly">
+      <div id="DillyDilly" class="col-3-span-8">
         <title>Dillon Deleacaes</title>
       <a href="dillon.html">
-        <img src="dillon.jpg" height="300px" width="300px"/>
+        <img src="dillon.jpg" />
       </a>
       <h3>Dillon's Contact Information</h3>
       <p>Dillon currently works in Sales & Marketing overseeing accounts with the Department of Defense and military installations around the U.S. With taking this course, he hopes to emerge himself within the web development realm, and start a career in front end development. Listed below are a few links to see his professional profiles, and a way to contact him.</p>
@@ -97,26 +104,27 @@
       <p id="blockquote"><em><blockquote>"You miss 100% of the shots that you don't take. -Wayne Gretsky" -Michael Scott</em></p></blockquote></p>
       </div>
 
-      <div id="brandon">
+      <div id="brandon" class="col-3-span-8">
         <a href="BrandonBunch/index.html">
-          <img id="brandonIMG" src="BrandonBunch/brandonbunch.jpg" alt="Picture of Brandon" width="200">
+          <img id="brandonIMG" src="BrandonBunch/brandonbunch.jpg" alt="Picture of Brandon" >
         </a>
         <h3>Contact Info!</h3>
         <ul>
             <li>Brandon Bunch</li>
             <li>573-714-5311</li>
             <li><a id="brandonEmail" href="mailto:brandon_bunch@icloud.com">brandon_bunch@icloud.com</a></li>
-            <p id="brandonQuote">"Programmers are just master Googlers" - Jesse Bunch.</p>
+            <p>Brandon currently works security for one of Nashville's most popular bars. Though he has tought himself a bit about Web Development, he took this class with hopes to build upon what he has learned, to advance into a career into Front-end development. When he isn't busy working or learning, he spends his time relaxing with his dog or adventuring in Nashville with friends.</p>
         </ul>
       </div>
 
-      <div id="eric">
+      <div id="eric" class="col-3-span-8">
         <a href="ecl/index.html">
           <img src="images/EricPicture.jpg">
         </a>
       </div>
+      <br>
 
-      <div id="hhthacker">
+      <div id="hhthacker" class="col-3-span-8">
         <a href="heather/heather.html">
           <img
           src="https://media1.giphy.com/media/ZMxtSehqOfUD6/giphy.gif"
@@ -132,7 +140,13 @@
           <em>Bugs are just features waiting to be uncovered ;)</em>
         </p>
       </div>
-
+    </container>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
     </main>
   </body>
 

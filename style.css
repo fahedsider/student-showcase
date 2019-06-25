@@ -6,40 +6,11 @@
 
 #headertext {
   font-family: "Comic Sans MS", cursive, sans-serif;
-  background-color: white;
+  background-color: black;
+  color: whitesmoke
 }
 
 
-h1 {
-  background-color: #d3d3d3;
-}
-
-li, ul, p, h3, em {
-  background-color: #919de2;
-}
-
-#fahedPage {
-    background-color: lightblue;
-}
-
-#scroll-nav {
-  padding-top: 10px;
-}
-
-nav > a {
-  padding-right: 5px;
-  border-right: 1px black solid;
-}
-
-nav > a:last-child {
-  border-right: 0;
-
-}
-
-img {
-  width: 150;
-  height: 150;
-}
 
 ul {
   list-style: none;
